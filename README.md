@@ -1,5 +1,7 @@
 Sepsis-3 Revenue Integrity Predictor
+
 📊 Project Overview & Business Impact
+
 This project develops a predictive audit tool to identify Sepsis claims at risk of Clinical Validation Denial. In the US healthcare system, insurance payers often "downgrade" Sepsis claims if the clinical documentation does not meet the strict Sepsis-3 definition (life-threatening organ dysfunction), leading to significant revenue leakage.
 
 Financial Risk Identified: Flagged $4,235,000 in potential revenue at risk within the test cohort.
