@@ -10,7 +10,7 @@ Risk Prioritization: Identified 847 high-risk claims for pre-submission review b
 
 Final Model Performance: Achieved a 62% Recall for the high-risk class, ensuring the majority of vulnerable claims are captured for audit.
 
-🛠️ Technical Evolution: From "Toy Model" to Reality
+🛠️ Technical Evolution
 A critical part of this project was the iterative refinement of the machine learning pipeline to address common real-world pitfalls:
 
 1. Identifying and Fixing Data Leakage
